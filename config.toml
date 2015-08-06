@@ -25,7 +25,7 @@ paginate = 10
     # If false display full article contents in blog index.
     # Otherwise show description and 'read on' link to individual blog post page.
     # Default (if omitted) is true.
-    truncate = true
+    truncate = false
 
     # Used when a given page doesn't set its own.
     defaultDescription = "Your default page description"
