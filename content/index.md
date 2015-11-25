@@ -13,4 +13,4 @@ Among other things, I work on the [MovieLens](http://movielens.org) project.
 This site contains a page with more [about me](/about/), a page summarizing
 my academic [publications](/publications/), and [blog posts](/post/).
 
-Me: <img src="/max.jpg" alt="Max Harper" width="100">
+---
