@@ -1,8 +1,40 @@
-{{ partial "head.html" . }}
-<div class="content container">
+{{ partial "default_head.html" . }}
 
-  <h1>foo bar baz - front page</h1>
+{{ range .Data.Pages }}
+  {{if eq .RelPermalink "/index.html" }} {{.Content}} {{end}}
+{{ end }}
 
-  <p>foo!</p>
+<!-- Space delimited list of page types -->
+{{ $paginator := .Paginate (where .Data.Pages "Type" "in" "post") }}
 
-{{ partial "foot.html" . }}
+<h1>Recent Posts</h1>
+
+<div class="posts">
+  {{ range .Paginator.Pages }}
+  <div class="post">
+    <h2 class="post-title" style="display: inline-block;"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    - <span class="post-date" style="display: inline-block;">{{ .Date.Format .Site.Params.DateForm }}</span>
+    <div></div>
+    {{ .Summary }}
+    <div class="read-more-link">
+      <a href="{{ .RelPermalink }}">Read More…</a>
+    </div>
+  </div>
+  {{ end }}
+</div>
+
+<div class="pagination">
+  {{ if $paginator.HasNext }}
+  <a class="pagination-item older" href="{{ $paginator.Next.URL }}">Older</a>
+  {{ else }}
+  <span class="pagination-item older">Older</span>
+  {{ end }}
+
+  {{ if $paginator.HasPrev }}
+  <a class="pagination-item newer" href="{{ $paginator.Prev.URL }}">Newer</a>
+  {{ else }}
+  <span class="pagination-item newer">Newer</span>
+  {{ end }}
+</div>
+
+{{ partial "default_foot.html" . }}

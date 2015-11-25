@@ -1,3 +1,6 @@
 [submodule "themes/hyde-x"]
 	path = themes/hyde-x
 	url = git@github.com:zyro/hyde-x.git
+[submodule "themes/lanyon-hugo"]
+	path = themes/lanyon-hugo
+	url = git@github.com:tummychow/lanyon-hugo.git
