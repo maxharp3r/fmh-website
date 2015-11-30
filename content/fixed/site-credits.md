@@ -6,4 +6,7 @@ weight = "100"
 
 +++
 
-This site is built with [hugo](https://gohugo.io) and [lanyon-hugo](https://github.com/tummychow/lanyon-hugo).
+* <https://gohugo.io>
+* <https://github.com/tummychow/lanyon-hugo>
+* <http://antifavicon.com/>
+* <https://www.google.com/recaptcha/admin#mailhide>
