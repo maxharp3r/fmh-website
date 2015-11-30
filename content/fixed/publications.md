@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 sidebar = true
-weight = "1"
+weight = "20"
 
 +++
 

@@ -10,3 +10,5 @@ weight = "100"
 * <https://github.com/tummychow/lanyon-hugo>
 * <http://antifavicon.com/>
 * <https://www.google.com/recaptcha/admin#mailhide>
+
+The source code for this site is here: <https://github.com/maxharp3r/fmh-website>
