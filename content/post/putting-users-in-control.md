@@ -11,7 +11,7 @@ The music services that I subscribe to don’t understand me very well.
 [Spotify](http://www.spotify.com), which offers a new personalized playlist for me each week, seems to think that I only like quite obscure music.
 But neither of them get it right, and I wish that I could tell them to change.
 
-![screenshots of Pandora and Spotify](/pandora-spotify-screenshots.png "Pandora and Spotify are “black box” recommenders, where it is difficult to know how to act to repair bad recommendations.")
+![screenshots of Pandora and Spotify](/images/pandora-spotify-screenshots.png "Pandora and Spotify are “black box” recommenders, where it is difficult to know how to act to repair bad recommendations.")
 
 I cannot tell these services to change how they recommend music to me because they give me no direct control.
 Instead, they give me indirect control: I can listen to songs, skip songs, and provide thumbs up, which in turn changes my recommendations in an unknown fashion.

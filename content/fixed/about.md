@@ -12,7 +12,7 @@ the social computing group at the [University of Minnesota
 Department of Computer Science and Engineering](http://www.cs.umn.edu).
 Among other things, I work on the [MovieLens](http://movielens.org) project.
 
-Me: <img src="/max.jpg" alt="Max Harper" width="100">
+Me: <img src="/images/max.jpg" alt="Max Harper" width="100">
 
 Links:
 
