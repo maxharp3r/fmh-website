@@ -14,7 +14,7 @@ the social computing group at the [University of Minnesota
 Department of Computer Science and Engineering](http://www.cs.umn.edu).
 Among other things, I work on the [MovieLens](http://movielens.org) project.
 
-* [research statement & information for prospective students](/research/)
 * [contact me & connect with me](/connect/)
 * [publications](/publications/)
+* [research statement & information for prospective students](/research/)
 
