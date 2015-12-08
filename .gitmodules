@@ -4,3 +4,6 @@
 [submodule "themes/lanyon-hugo"]
 	path = themes/lanyon-hugo
 	url = git@github.com:tummychow/lanyon-hugo.git
+[submodule "zotero-to-html"]
+	path = zotero-to-html
+	url = git@github.com:maxharp3r/zotero-to-html.git

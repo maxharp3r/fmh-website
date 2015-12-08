@@ -12,8 +12,7 @@ I think it is important and interesting to study humans, algorithms, and interfa
 I specialize in quantitative, empirical methods, but I like employing multiple
 methods, and I enjoy branching out.
 
-If you are interested in learning about my research, try reading something I've written.
-Here are a couple of my favorite research papers:
+If you are interested in learning more about my research areas and methods, read one of these:
 
 * [Putting Users in Control of Their Recommendations](http://files.grouplens.org/papers/harper-recsys2015.pdf) (Recsys 2015)
 * [Facts or Friends? Distinguishing Informational and Conversational Questions in Social Q\&A Sites](http://files.grouplens.org/papers/harper-chi2009.pdf) (CHI 2009)
