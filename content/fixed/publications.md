@@ -10,7 +10,7 @@ weight = "20"
 * [Google Scholar](https://scholar.google.com/citations?user=y9kaCjcAAAAJ&hl=en&oi=sra)
 * [ResearchGate](https://www.researchgate.net/profile/Franklin_Harper)
 
-**Bibliography** (last updated Nov. 2015):
+**Bibliography** (last updated Nov. 2015 via [zotero-to-html](https://github.com/maxharp3r/zotero-to-html)):
 
 [//]: # (Generated from zotero-to-html, ACM proceedings 15+ style, markdown template)
 
@@ -18,6 +18,7 @@ weight = "20"
 
 F. Maxwell Harper, Funing Xu, Harmanpreet Kaur, Kyle Condiff, Shuo Chang, and Loren Terveen. 2015. Putting Users in Control of Their Recommendations. <i>Proceedings of the 9th ACM Conference on Recommender Systems</i>, ACM, 3–10. <a href="http://doi.org/10.1145/2792838.2800179">http://doi.org/10.1145/2792838.2800179</a>
 
+* blog post: <a href="http://grouplens.org/blog/putting-users-in-control-of-their-recommendations/">http://grouplens.org/blog/putting-users-in-control-of-their-recommendations/</a>
 * author version: <a href="http://files.grouplens.org/papers/harper-recsys2015.pdf">http://files.grouplens.org/papers/harper-recsys2015.pdf</a>
 
 ---
@@ -82,55 +83,66 @@ F. Maxwell Harper. 2009. The impact of social design on user contributions to on
 ---
 F. Maxwell Harper, Daniel Moy, and Joseph A. Konstan. 2009. Facts or Friends? Distinguishing Informational and Conversational Questions in Social Q&A Sites. <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</i>, ACM, 759–768. <a href="http://doi.org/10.1145/1518701.1518819">http://doi.org/10.1145/1518701.1518819</a>
 
+* authorizer: <a href="http://dl.acm.org/authorize?N07963">http://dl.acm.org/authorize?N07963</a>
 
 ---
 **2008**
 
 Daphne Raban and F. Maxwell Harper. 2008. Motivations for answering questions online. In <i>New Media and Innovative Technologies</i>. Ben Gurion University of the Negev Press. Retrieved from <a href="http://cmsprod.bgu.ac.il/Eng/Centers/burda/Publications/books/usesgratnewm.htm">http://cmsprod.bgu.ac.il/Eng/Centers/burda/Publications/books/usesgratnewm.htm</a>
 
-
----
-Joseph F. McCarthy, Ben Congleton, and F. Maxwell Harper. 2008. The Context, Content & Community Collage: Sharing Personal Digital Media in the Physical Workplace. <i>Proceedings of the 2008 ACM Conference on Computer Supported Cooperative Work</i>, ACM, 97–106. <a href="http://doi.org/10.1145/1460563.1460580">http://doi.org/10.1145/1460563.1460580</a>
-
+* author version: <a href="http://www-users.cs.umn.edu/~harper/publications/raban-harper-2008.pdf">http://www-users.cs.umn.edu/~harper/publications/raban-harper-2008.pdf</a>
 
 ---
 F. Maxwell Harper, Daphne Raban, Sheizaf Rafaeli, and Joseph A. Konstan. 2008. Predictors of Answer Quality in Online Q&A Sites. <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</i>, ACM, 865–874. <a href="http://doi.org/10.1145/1357054.1357191">http://doi.org/10.1145/1357054.1357191</a>
 
+* authorizer: <a href="http://dl.acm.org/authorize?N07975">http://dl.acm.org/authorize?N07975</a>
+
+---
+Joseph F. McCarthy, Ben Congleton, and F. Maxwell Harper. 2008. The Context, Content & Community Collage: Sharing Personal Digital Media in the Physical Workplace. <i>Proceedings of the 2008 ACM Conference on Computer Supported Cooperative Work</i>, ACM, 97–106. <a href="http://doi.org/10.1145/1460563.1460580">http://doi.org/10.1145/1460563.1460580</a>
+
+* authorizer: <a href="http://dl.acm.org/authorize?N07964">http://dl.acm.org/authorize?N07964</a>
 
 ---
 **2007**
 
 F. Maxwell Harper. 2007. Encouraging Contributions to Online Communities with Personalization and Incentives. In <i>User Modeling 2007</i>, Cristina Conati, Kathleen McCoy and Georgios Paliouras (eds.). Springer Berlin Heidelberg, 460–464. Retrieved November 13, 2015 from <a href="http://link.springer.com/chapter/10.1007/978-3-540-73078-1_65">http://link.springer.com/chapter/10.1007/978-3-540-73078-1_65</a>
 
+* author version: <a href="http://www-users.cs.umn.edu/~harper/publications/harper-um2007-dc.pdf">http://www-users.cs.umn.edu/~harper/publications/harper-um2007-dc.pdf</a>
 
 ---
 F. Maxwell Harper, Sherry Xin Li, Yan Chen, and Joseph A. Konstan. 2007. Social Comparisons to Motivate Contributions to an Online Community. In <i>Persuasive Technology</i>, Yvonne de Kort, Wijnand IJsselsteijn, Cees Midden, Berry Eggen and B. J. Fogg (eds.). Springer Berlin Heidelberg, 148–159. Retrieved November 13, 2015 from <a href="http://link.springer.com/chapter/10.1007/978-3-540-77006-0_20">http://link.springer.com/chapter/10.1007/978-3-540-77006-0_20</a>
 
-
----
-F. Maxwell Harper, Shilad Sen, and Dan Frankowski. 2007. Supporting Social Recommendations with Activity-balanced Clustering. <i>Proceedings of the 2007 ACM Conference on Recommender Systems</i>, ACM, 165–168. <a href="http://doi.org/10.1145/1297231.1297262">http://doi.org/10.1145/1297231.1297262</a>
-
-
----
-Dan Frankowski, Shyong K. Lam, Shilad Sen, et al. 2007. Recommenders Everywhere:: The WikiLens Community-maintained Recommender System. <i>Proceedings of the 2007 International Symposium on Wikis</i>, ACM, 47–60. <a href="http://doi.org/10.1145/1296951.1296957">http://doi.org/10.1145/1296951.1296957</a>
-
+* author version: <a href="http://www-users.cs.umn.edu/~harper/publications/harper_persuasive2007.pdf">http://www-users.cs.umn.edu/~harper/publications/harper_persuasive2007.pdf</a>
 
 ---
 F. Maxwell Harper, Dan Frankowski, Sara Drenner, et al. 2007. Talk Amongst Yourselves: Inviting Users to Participate in Online Conversations. <i>Proceedings of the 12th International Conference on Intelligent User Interfaces</i>, ACM, 62–71. <a href="http://doi.org/10.1145/1216295.1216313">http://doi.org/10.1145/1216295.1216313</a>
 
+* authorizer: <a href="http://dl.acm.org/authorize?N07979">http://dl.acm.org/authorize?N07979</a>
+
+---
+F. Maxwell Harper, Shilad Sen, and Dan Frankowski. 2007. Supporting Social Recommendations with Activity-balanced Clustering. <i>Proceedings of the 2007 ACM Conference on Recommender Systems</i>, ACM, 165–168. <a href="http://doi.org/10.1145/1297231.1297262">http://doi.org/10.1145/1297231.1297262</a>
+
+* authorizer: <a href="http://dl.acm.org/authorize?N07978">http://dl.acm.org/authorize?N07978</a>
+
+---
+Dan Frankowski, Shyong K. Lam, Shilad Sen, et al. 2007. Recommenders Everywhere: The WikiLens Community-maintained Recommender System. <i>Proceedings of the 2007 International Symposium on Wikis</i>, ACM, 47–60. <a href="http://doi.org/10.1145/1296951.1296957">http://doi.org/10.1145/1296951.1296957</a>
+
+* authorizer: <a href="http://dl.acm.org/authorize?N07977">http://dl.acm.org/authorize?N07977</a>
 
 ---
 Shilad Sen, F. Maxwell Harper, Adam LaPitz, and John Riedl. 2007. The Quest for Quality Tags. <i>Proceedings of the 2007 International ACM Conference on Supporting Group Work</i>, ACM, 361–370. <a href="http://doi.org/10.1145/1316624.1316678">http://doi.org/10.1145/1316624.1316678</a>
 
+* authorizer: <a href="http://dl.acm.org/authorize?N07976">http://dl.acm.org/authorize?N07976</a>
 
 ---
 **2006**
 
-Sara Drenner, Max Harper, Dan Frankowski, John Riedl, and Loren Terveen. 2006. Insert Movie Reference Here: A System to Bridge Conversation and Item-oriented Web Sites. <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</i>, ACM, 951–954. <a href="http://doi.org/10.1145/1124772.1124914">http://doi.org/10.1145/1124772.1124914</a>
+Shilad Sen, Shyong K. Lam, Al Mamunur Rashid, et al. 2006. tagging, communities, vocabulary, evolution. <i>Proceedings of the 2006 20th Anniversary Conference on Computer Supported Cooperative Work</i>, ACM, 181–190. <a href="http://doi.org/10.1145/1180875.1180904">http://doi.org/10.1145/1180875.1180904</a>
 
+* authorizer: <a href="http://dl.acm.org/authorize?N07970">http://dl.acm.org/authorize?N07970</a>
 
 ---
-Shilad Sen, Shyong K. Lam, Al Mamunur Rashid, et al. 2006. Tagging, Communities, Vocabulary, Evolution. <i>Proceedings of the 2006 20th Anniversary Conference on Computer Supported Cooperative Work</i>, ACM, 181–190. <a href="http://doi.org/10.1145/1180875.1180904">http://doi.org/10.1145/1180875.1180904</a>
+Sara Drenner, Max Harper, Dan Frankowski, John Riedl, and Loren Terveen. 2006. Insert Movie Reference Here: A System to Bridge Conversation and Item-oriented Web Sites. <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</i>, ACM, 951–954. <a href="http://doi.org/10.1145/1124772.1124914">http://doi.org/10.1145/1124772.1124914</a>
 
 
 ---
@@ -138,13 +150,14 @@ Shilad Sen, Shyong K. Lam, Al Mamunur Rashid, et al. 2006. Tagging, Communities,
 
 F. Maxwell Harper, Xin Li, Yan Chen, and Joseph A. Konstan. 2005. An Economic Model of User Rating in an Online Recommender System. In <i>User Modeling 2005</i>, Liliana Ardissono, Paul Brna and Antonija Mitrovic (eds.). Springer Berlin Heidelberg, 307–316. Retrieved November 13, 2015 from <a href="http://link.springer.com/chapter/10.1007/11527886_40">http://link.springer.com/chapter/10.1007/11527886_40</a>
 
+* author version: <a href="http://www-users.cs.umn.edu/~harper/publications/harper_um2005.pdf">http://www-users.cs.umn.edu/~harper/publications/harper_um2005.pdf</a>
 
 ---
 F. Maxwell Harper, Joseph A Konstan, Xin Li, and Yan Chen. 2005. User motivations and incentive structures in an online recommender system. <i>Proceedings of Group 2005 Workshop on Sustaining Community: The role and design of incentive mechanisms in online systems</i>.
 
+* author version: <a href="http://www-users.cs.umn.edu/~harper/publications/harper_group2005.pdf">http://www-users.cs.umn.edu/~harper/publications/harper_group2005.pdf</a>
 
 ---
 **2004**
 
 F. Maxwell Harper. 2004. Digital Government. In Alexei Pavlichev and G. David Garson (eds.). IGI Global, Hershey, PA, USA, 236–247. Retrieved November 13, 2015 from <a href="http://dl.acm.org/citation.cfm?id=973560.973576">http://dl.acm.org/citation.cfm?id=973560.973576</a>
-

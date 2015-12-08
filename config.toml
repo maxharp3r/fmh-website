@@ -2,7 +2,7 @@ MetaDataFormat = "toml"
 theme = "lanyon-hugo"
 languageCode = "en-us"
 
-baseurl = "http://example.com/"
+baseurl = "http://www-users.cs.umn.edu/~harper/"
 canonifyurls = true
 
 [author]
