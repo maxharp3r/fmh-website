@@ -16,6 +16,13 @@ weight = "20"
 
 **2015**
 
+F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. <i>ACM Trans. Interact. Intell. Syst.</i> 5, 4: 19:1–19:19. <a href="http://doi.org/10.1145/2827872">http://doi.org/10.1145/2827872</a>
+
+* blog post: <a href="http://grouplens.org/blog/movielens-datasets-context-and-history/">http://grouplens.org/blog/movielens-datasets-context-and-history/</a>
+* author version: <a href="http://files.grouplens.org/papers/harper-tiis2015.pdf">http://files.grouplens.org/papers/harper-tiis2015.pdf</a>
+* published version: <a href="http://dl.acm.org/authorize?N08491">http://dl.acm.org/authorize?N08491</a>
+
+---
 Shuo Chang, F. Maxwell Harper, and Loren Terveen. 2015. Using Groups of Items for Preference Elicitation in Recommender Systems. <i>Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing</i>, ACM, 1258–1269. <a href="http://doi.org/10.1145/2675133.2675210">http://doi.org/10.1145/2675133.2675210</a>
 
 * blog post: <a href="http://grouplens.org/blog/onboarding-new-users-in-recommender-systems/">http://grouplens.org/blog/onboarding-new-users-in-recommender-systems/</a>
