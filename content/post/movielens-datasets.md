@@ -1,8 +1,10 @@
 +++
-date = "2016-02-15T14:13:30-06:00"
+date = "2016-02-16T10:18:03-06:00"
 title = "MovieLens Datasets: Context and History"
-draft = true
+draft = false
 +++
+
+([Cross-posted](http://grouplens.org/blog/movielens-datasets-context-and-history/) from the GroupLens blog)
 
 The [MovieLens datasets](http://www.grouplens.org/datasets/movielens/) are full of data describing how people rate movies.
 As it turns out, these datasets have been useful to lots of folks, from recommender systems researchers to the readers of popular-press programming books.
@@ -17,7 +19,7 @@ Given the extent of attention -- research and otherwise -- given to these datase
     <figcaption>MovieLens circa 1997 &rarr; MovieLens today</figcaption>
 </figure>
 
-In [MovieLens Datasets: Context and History](http://dx.doi.org/10.1145/2827872), published in [Transactions on Interactive Intelligent Systems (TiiS)](http://tiis.acm.org/), we detail the history of the MovieLens system with an eye towards understanding how changes in the system affect the resulting datasets.
+In [MovieLens Datasets: Context and History](http://dx.doi.org/10.1145/2827872), published in [ACM Transactions on Interactive Intelligent Systems (TiiS)](http://tiis.acm.org/), we detail the history of the MovieLens system with an eye towards understanding how changes in the system affect the resulting datasets.
 This article is now our most comprehensive description of how the MovieLens recommender started, and how it has evolved and been used since 1997.
 
 One result of pulling together 17 years of statistics is a surprising consistency in member rating behavior.
@@ -32,9 +34,11 @@ Here's a visualization of the distribution:
 
 This paper also pulls together descriptive statistics of the six MovieLens datasets and six of the most prominent alternative datasets.
 Alongside these statistics, we present usage guidelines and limitations.
-Practitioners and researchers who wish to find the most appropriate dataset for their work will hopefully find this collection useful.
+We hope practitioners and researchers who wish to find the most appropriate dataset for their work will find this collection useful.
 
-Want the details? Check out the paper.
+Our lab is very interested in learning about current research that uses the MovieLens datasets.
+Therefore, we now ask authors of publications that reference the MovieLens datasets to cite this journal paper.
+Good luck with your research!
 
 > Harper, F.M. and Konstan, J.A. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems 5, 4 (Dec. 2015), 19:1–19:19.
 
