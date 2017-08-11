@@ -10,9 +10,16 @@ weight = "20"
 * [Google Scholar](https://scholar.google.com/citations?user=y9kaCjcAAAAJ&hl=en&oi=sra)
 * [ResearchGate](https://www.researchgate.net/profile/Franklin_Harper)
 
-**Bibliography** (last updated Jan. 2017 via [zotero-to-html](https://github.com/maxharp3r/zotero-to-html)):
+**Bibliography** (last updated Aug. 2017 via [zotero-to-html](https://github.com/maxharp3r/zotero-to-html)):
 
 [//]: # (Generated from zotero-to-html, ACM proceedings 15+ style, markdown template)
+**2017**
+
+Qian Zhao, Gediminas Adomavicius, F. Maxwell Harper, Martijn Willemsen, and Joseph A. Konstan. 2017. Toward Better Interactions in Recommender Systems: Cycling and Serpentining Approaches for Top-N Item Lists. In <i>Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing</i> (CSCW ’17), 1444–1453. <a href="https://doi.org/10.1145/2998181.2998211">https://doi.org/10.1145/2998181.2998211</a>
+
+* blog post: <a href="https://grouplens.org/blog/re-think-about-top-n-recommendation-list-should-recommenders-always-show-the-best/">https://grouplens.org/blog/re-think-about-top-n-recommendation-list-should-recommenders-always-show-the-best/</a>
+
+---
 **2016**
 
 Shuo Chang, F. Maxwell Harper, Lingfei He, and Loren G. Terveen. 2016. CrowdLens: Experimenting with Crowd-Powered Recommendation and Explanation. In <i>Tenth International AAAI Conference on Web and Social Media</i>. Retrieved May 23, 2016 from <a href="http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13111">http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13111</a>

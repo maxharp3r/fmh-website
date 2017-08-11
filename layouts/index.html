@@ -1,8 +1,6 @@
 {{ partial "default_head.html" . }}
 
-{{ range .Data.Pages }}
-  {{if eq .RelPermalink "/index.html" }} {{.Content}} {{end}}
-{{ end }}
+{{.Content}}
 
 <!-- Space delimited list of page types -->
 {{ $paginator := .Paginate (where .Data.Pages "Type" "in" "post") }}
