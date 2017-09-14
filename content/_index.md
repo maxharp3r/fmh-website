@@ -16,5 +16,6 @@ Among other things, I work on the [MovieLens](http://movielens.org) project.
 * [contact me & connect with me](/connect/)
 * [publications](/publications/)
 * [research statement & information for prospective students](/research/)
+* [curriculum vitae (.pdf)](/files/harper-cv.pdf)
 
 Posts:
