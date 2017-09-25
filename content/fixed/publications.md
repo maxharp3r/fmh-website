@@ -10,11 +10,29 @@ weight = "20"
 * [Google Scholar](https://scholar.google.com/citations?user=y9kaCjcAAAAJ&hl=en&oi=sra)
 * [ResearchGate](https://www.researchgate.net/profile/Franklin_Harper)
 
-**Bibliography** (last updated Aug. 2017 via [zotero-to-html](https://github.com/maxharp3r/zotero-to-html)):
+**Bibliography** (last updated September 2017 via [zotero-to-html](https://github.com/maxharp3r/zotero-to-html)):
 
 [//]: # (Generated from zotero-to-html, ACM proceedings 15+ style, markdown template)
+
 **2017**
 
+Tien T. Nguyen, F. Maxwell Harper, Loren Terveen, and Joseph A. Konstan. 2017. User Personality and User Satisfaction with Recommender Systems. <i>Information Systems Frontiers</i>: 1–17. <a href="https://doi.org/10.1007/s10796-017-9782-y">https://doi.org/10.1007/s10796-017-9782-y</a>
+
+
+---
+Mohit Sharma, F. Maxwell Harper, and George Karypis. 2017. Learning from Sets of Items in Recommender Systems. Retrieved from <a href="https://www.thinkmind.org/download.php?articleid=eknow_2017_4_10_68011">https://www.thinkmind.org/download.php?articleid=eknow_2017_4_10_68011</a>
+
+* best paper award
+
+---
+F. Maxwell Harper. 2017. Recommender Popularity Controls: An Observational Study. In <i>Poster Proceeding of ACM Recsys 2017</i>. Retrieved September 1, 2017 from <a href="http://ceur-ws.org/Vol-1905/recsys2017_poster15.pdf">http://ceur-ws.org/Vol-1905/recsys2017_poster15.pdf</a>
+
+
+---
+Jie Kang, Kyle Condiff, Shuo Chang, Joseph A. Konstan, Loren Terveen, and F. Maxwell Harper. 2017. Understanding How People Use Natural Language to Ask for Recommendations. In <i>Proceedings of the Eleventh ACM Conference on Recommender Systems</i> (RecSys ’17), 229–237. <a href="https://doi.org/10.1145/3109859.3109873">https://doi.org/10.1145/3109859.3109873</a>
+
+
+---
 Qian Zhao, Gediminas Adomavicius, F. Maxwell Harper, Martijn Willemsen, and Joseph A. Konstan. 2017. Toward Better Interactions in Recommender Systems: Cycling and Serpentining Approaches for Top-N Item Lists. In <i>Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing</i> (CSCW ’17), 1444–1453. <a href="https://doi.org/10.1145/2998181.2998211">https://doi.org/10.1145/2998181.2998211</a>
 
 * blog post: <a href="https://grouplens.org/blog/re-think-about-top-n-recommendation-list-should-recommenders-always-show-the-best/">https://grouplens.org/blog/re-think-about-top-n-recommendation-list-should-recommenders-always-show-the-best/</a>
