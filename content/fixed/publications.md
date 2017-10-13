@@ -31,6 +31,9 @@ F. Maxwell Harper. 2017. Recommender Popularity Controls: An Observational Study
 ---
 Jie Kang, Kyle Condiff, Shuo Chang, Joseph A. Konstan, Loren Terveen, and F. Maxwell Harper. 2017. Understanding How People Use Natural Language to Ask for Recommendations. In <i>Proceedings of the Eleventh ACM Conference on Recommender Systems</i> (RecSys ’17), 229–237. <a href="https://doi.org/10.1145/3109859.3109873">https://doi.org/10.1145/3109859.3109873</a>
 
+* author version: <a href="http://files.grouplens.org/papers/harper-recsys2017.pdf">http://files.grouplens.org/papers/harper-recsys2017.pdf</a>
+* published version: <a href="http://dl.acm.org/authorize?N47328">http://dl.acm.org/authorize?N47328</a>
+* dataset: <a href="https://doi.org/10.13020/D6VT0F">https://doi.org/10.13020/D6VT0F</a>
 
 ---
 Qian Zhao, Gediminas Adomavicius, F. Maxwell Harper, Martijn Willemsen, and Joseph A. Konstan. 2017. Toward Better Interactions in Recommender Systems: Cycling and Serpentining Approaches for Top-N Item Lists. In <i>Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing</i> (CSCW ’17), 1444–1453. <a href="https://doi.org/10.1145/2998181.2998211">https://doi.org/10.1145/2998181.2998211</a>
