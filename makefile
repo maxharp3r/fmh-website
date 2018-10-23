@@ -7,7 +7,7 @@ clean:
 deploy:
 	make clean
 	hugo
-	rsync -avz public/ chork.cs.umn.edu:/home/grad03/harper/.www/
+	rsync -avz public/ chork.cs.umn.edu:/home/max/.www/
 
 watch:
 	hugo server --buildDrafts --watch
