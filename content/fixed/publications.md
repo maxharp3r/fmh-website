@@ -10,7 +10,7 @@ weight = "20"
 * [Google Scholar](https://scholar.google.com/citations?user=y9kaCjcAAAAJ&hl=en&oi=sra)
 * [ResearchGate](https://www.researchgate.net/profile/Franklin_Harper)
 
-**Bibliography** (last updated September 2017 via [zotero-to-html](https://github.com/maxharp3r/zotero-to-html)):
+**Bibliography** (last updated October, 2018 via [zotero-to-html](https://github.com/maxharp3r/zotero-to-html)):
 
 [//]: # (Generated from zotero-to-html, ACM proceedings 15+ style, markdown template)
 
