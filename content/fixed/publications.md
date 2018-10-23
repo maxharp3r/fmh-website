@@ -14,6 +14,34 @@ weight = "20"
 
 [//]: # (Generated from zotero-to-html, ACM proceedings 15+ style, markdown template)
 
+**2018**
+
+Joshua Wissbroecker and F. Maxwell Harper. 2018. Early Lessons from a Voice-Only Interface for Finding Movies. In <i>arXiv:1808.09900 [cs]</i>. Retrieved October 23, 2018 from <a href="http://arxiv.org/abs/1808.09900">http://arxiv.org/abs/1808.09900</a>
+
+
+---
+Qian Zhao, F. Maxwell Harper, Gediminas Adomavicius, and Joseph A. Konstan. 2018. Explicit or Implicit Feedback? Engagement or Satisfaction?: A Field Experiment on Machine-learning-based Recommender Systems. In <i>Proceedings of the 33rd Annual ACM Symposium on Applied Computing</i> (SAC ’18), 1331–1340. <a href="https://doi.org/10.1145/3167132.3167275">https://doi.org/10.1145/3167132.3167275</a>
+
+* published version: <a href="https://dl.acm.org/authorize?N661711">https://dl.acm.org/authorize?N661711</a>
+
+---
+Yuan Yao and F. Maxwell Harper. 2018. Judging Similarity: A User-centric Study of Related Item Recommendations. In <i>Proceedings of the 12th ACM Conference on Recommender Systems</i> (RecSys ’18), 288–296. <a href="https://doi.org/10.1145/3240323.3240351">https://doi.org/10.1145/3240323.3240351</a>
+
+* published version: <a href="https://dl.acm.org/authorize?N661710">https://dl.acm.org/authorize?N661710</a>
+* dataset: <a href="https://doi.org/10.13020/D67700">https://doi.org/10.13020/D67700</a>
+
+---
+Qian Zhao, Martijn C. Willemsen, Gediminas Adomavicius, F. Maxwell Harper, and Joseph A. Konstan. 2018. Interpreting User Inaction in Recommender Systems. In <i>Proceedings of the 12th ACM Conference on Recommender Systems</i> (RecSys ’18), 40–48. <a href="https://doi.org/10.1145/3240323.3240366">https://doi.org/10.1145/3240323.3240366</a>
+
+* published version: <a href="https://dl.acm.org/authorize?N661719">https://dl.acm.org/authorize?N661719</a>
+
+---
+Yifan Zhong, Tahir Lazaro Sousa Menezes, Vikas Kumar, Qian Zhao, and F. Maxwell Harper. 2018. A Field Study of Related Video Recommendations: Newest, Most Similar, or Most Relevant? In <i>Proceedings of the 12th ACM Conference on Recommender Systems</i> (RecSys ’18), 274–278. <a href="https://doi.org/10.1145/3240323.3240395">https://doi.org/10.1145/3240323.3240395</a>
+
+* published version: <a href="https://dl.acm.org/authorize?N661718">https://dl.acm.org/authorize?N661718</a>
+* best short paper nominee
+
+---
 **2017**
 
 Tien T. Nguyen, F. Maxwell Harper, Loren Terveen, and Joseph A. Konstan. 2017. User Personality and User Satisfaction with Recommender Systems. <i>Information Systems Frontiers</i>: 1–17. <a href="https://doi.org/10.1007/s10796-017-9782-y">https://doi.org/10.1007/s10796-017-9782-y</a>
@@ -68,6 +96,11 @@ F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History a
 * published version: <a href="http://dl.acm.org/authorize?N08491">http://dl.acm.org/authorize?N08491</a>
 
 ---
+Michael D. Ekstrand, Daniel Kluver, F. Maxwell Harper, and Joseph A. Konstan. 2015. Letting Users Choose Recommender Algorithms: An Experimental Study. In <i>Proceedings of the 9th ACM Conference on Recommender Systems</i> (RecSys ’15), 11–18. <a href="https://doi.org/10.1145/2792838.2800195">https://doi.org/10.1145/2792838.2800195</a>
+
+* published version: <a href="http://dl.acm.org/authorize?N07989">http://dl.acm.org/authorize?N07989</a>
+
+---
 Shuo Chang, F. Maxwell Harper, and Loren Terveen. 2015. Using Groups of Items for Preference Elicitation in Recommender Systems. In <i>Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing</i> (CSCW ’15), 1258–1269. <a href="https://doi.org/10.1145/2675133.2675210">https://doi.org/10.1145/2675133.2675210</a>
 
 * blog post: <a href="http://grouplens.org/blog/onboarding-new-users-in-recommender-systems/">http://grouplens.org/blog/onboarding-new-users-in-recommender-systems/</a>
@@ -81,16 +114,11 @@ F. Maxwell Harper, Funing Xu, Harmanpreet Kaur, Kyle Condiff, Shuo Chang, and Lo
 * published version: <a href="http://dl.acm.org/authorize?N07988">http://dl.acm.org/authorize?N07988</a>
 
 ---
-Michael D. Ekstrand, Daniel Kluver, F. Maxwell Harper, and Joseph A. Konstan. 2015. Letting Users Choose Recommender Algorithms: An Experimental Study. In <i>Proceedings of the 9th ACM Conference on Recommender Systems</i> (RecSys ’15), 11–18. <a href="https://doi.org/10.1145/2792838.2800195">https://doi.org/10.1145/2792838.2800195</a>
-
-* published version: <a href="http://dl.acm.org/authorize?N07989">http://dl.acm.org/authorize?N07989</a>
-
----
 **2014**
 
-Ting-Yu Wang, F. Maxwell Harper, and Brent Hecht. 2014. Designing Better Location Fields in User Profiles. In <i>Proceedings of the 18th International Conference on Supporting Group Work</i> (GROUP ’14), 73–80. <a href="https://doi.org/10.1145/2660398.2660424">https://doi.org/10.1145/2660398.2660424</a>
+Michael D. Ekstrand, F. Maxwell Harper, Martijn C. Willemsen, and Joseph A. Konstan. 2014. User Perception of Differences in Recommender Algorithms. In <i>Proceedings of the 8th ACM Conference on Recommender Systems</i> (RecSys ’14), 161–168. <a href="https://doi.org/10.1145/2645710.2645737">https://doi.org/10.1145/2645710.2645737</a>
 
-* published version: <a href="http://dl.acm.org/authorize?N07982">http://dl.acm.org/authorize?N07982</a>
+* published version: <a href="http://dl.acm.org/authorize?N07983">http://dl.acm.org/authorize?N07983</a>
 
 ---
 Tien T. Nguyen, Pik-Mai Hui, F. Maxwell Harper, Loren Terveen, and Joseph A. Konstan. 2014. Exploring the Filter Bubble: The Effect of Using Recommender Systems on Content Diversity. In <i>Proceedings of the 23rd International Conference on World Wide Web</i> (WWW ’14), 677–686. <a href="https://doi.org/10.1145/2566486.2568012">https://doi.org/10.1145/2566486.2568012</a>
@@ -98,9 +126,9 @@ Tien T. Nguyen, Pik-Mai Hui, F. Maxwell Harper, Loren Terveen, and Joseph A. Kon
 * published version: <a href="http://dl.acm.org/authorize?N07984">http://dl.acm.org/authorize?N07984</a>
 
 ---
-Michael D. Ekstrand, F. Maxwell Harper, Martijn C. Willemsen, and Joseph A. Konstan. 2014. User Perception of Differences in Recommender Algorithms. In <i>Proceedings of the 8th ACM Conference on Recommender Systems</i> (RecSys ’14), 161–168. <a href="https://doi.org/10.1145/2645710.2645737">https://doi.org/10.1145/2645710.2645737</a>
+Ting-Yu Wang, F. Maxwell Harper, and Brent Hecht. 2014. Designing Better Location Fields in User Profiles. In <i>Proceedings of the 18th International Conference on Supporting Group Work</i> (GROUP ’14), 73–80. <a href="https://doi.org/10.1145/2660398.2660424">https://doi.org/10.1145/2660398.2660424</a>
 
-* published version: <a href="http://dl.acm.org/authorize?N07983">http://dl.acm.org/authorize?N07983</a>
+* published version: <a href="http://dl.acm.org/authorize?N07982">http://dl.acm.org/authorize?N07982</a>
 
 ---
 **2012**
@@ -110,7 +138,7 @@ Aditya Pal, F. Maxwell Harper, and Joseph A. Konstan. 2012. Exploring Question S
 * published version: <a href="http://dl.acm.org/authorize?N07995">http://dl.acm.org/authorize?N07995</a>
 
 ---
-Yuqing Ren, F. Maxwell Harper, Sara Drenner, Loren G Terveen, Sara B Kiesler, John Riedl, and Robert E Kraut. 2012. Building Member Attachment in Online Communities: Applying Theories of Group Identity and Interpersonal Bonds. <i>Mis Quarterly</i> 36, 3: 841–864.
+Yuqing Ren, F. Maxwell Harper, Sara Drenner, Loren G Terveen, Sara B Kiesler, John Riedl, and Robert E Kraut. 2012. Building Member Attachment in Online Communities: Applying Theories of Group Identity and Interpersonal Bonds. <i>Mis Quarterly</i> 36, 3: 841–864. <a href="https://doi.org/10.2307/41703483">https://doi.org/10.2307/41703483</a>
 
 
 ---
@@ -131,7 +159,7 @@ F. Maxwell Harper, Joseph Weinberg, John Logie, and Joseph A. Konstan. 2010. Que
 
 
 ---
-Yan Chen, F. Maxwell Harper, Joseph Konstan, and Sherry Xin Li. 2010. Social Comparisons and Contributions to Online Communities: A Field Experiment on MovieLens. <i>The American Economic Review</i> 100, 4: 1358–1398. Retrieved November 13, 2015 from <a href="http://www.jstor.org/stable/27871259">http://www.jstor.org/stable/27871259</a>
+Yan Chen, F. Maxwell Harper, Joseph Konstan, and Sherry Xin Li. 2010. Social Comparisons and Contributions to Online Communities: A Field Experiment on MovieLens. <i>The American Economic Review</i> 100, 4: 1358–1398. <a href="https://doi.org/10.1257/aer.100.4.1358">https://doi.org/10.1257/aer.100.4.1358</a>
 
 
 ---
@@ -149,14 +177,15 @@ F. Maxwell Harper, Daniel Moy, and Joseph A. Konstan. 2009. Facts or Friends? Di
 ---
 **2008**
 
-Joseph F. McCarthy, Ben Congleton, and F. Maxwell Harper. 2008. The Context, Content & Community Collage: Sharing Personal Digital Media in the Physical Workplace. In <i>Proceedings of the 2008 ACM Conference on Computer Supported Cooperative Work</i> (CSCW ’08), 97–106. <a href="https://doi.org/10.1145/1460563.1460580">https://doi.org/10.1145/1460563.1460580</a>
-
-* published version: <a href="http://dl.acm.org/authorize?N07964">http://dl.acm.org/authorize?N07964</a>
-
----
 F. Maxwell Harper, Daphne Raban, Sheizaf Rafaeli, and Joseph A. Konstan. 2008. Predictors of Answer Quality in Online Q&A Sites. In <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</i> (CHI ’08), 865–874. <a href="https://doi.org/10.1145/1357054.1357191">https://doi.org/10.1145/1357054.1357191</a>
 
 * published version: <a href="http://dl.acm.org/authorize?N07975">http://dl.acm.org/authorize?N07975</a>
+* best paper nominee
+
+---
+Joseph F. McCarthy, Ben Congleton, and F. Maxwell Harper. 2008. The Context, Content & Community Collage: Sharing Personal Digital Media in the Physical Workplace. In <i>Proceedings of the 2008 ACM Conference on Computer Supported Cooperative Work</i> (CSCW ’08), 97–106. <a href="https://doi.org/10.1145/1460563.1460580">https://doi.org/10.1145/1460563.1460580</a>
+
+* published version: <a href="http://dl.acm.org/authorize?N07964">http://dl.acm.org/authorize?N07964</a>
 
 ---
 Daphne Raban and F. Maxwell Harper. 2008. Motivations for answering questions online. In <i>New Media and Innovative Technologies</i>. Ben Gurion University of the Negev Press. Retrieved from <a href="http://cmsprod.bgu.ac.il/Eng/Centers/burda/Publications/books/usesgratnewm.htm">http://cmsprod.bgu.ac.il/Eng/Centers/burda/Publications/books/usesgratnewm.htm</a>
@@ -166,7 +195,7 @@ Daphne Raban and F. Maxwell Harper. 2008. Motivations for answering questions on
 ---
 **2007**
 
-F. Maxwell Harper. 2007. Encouraging Contributions to Online Communities with Personalization and Incentives. In <i>User Modeling 2007</i>, Cristina Conati, Kathleen McCoy and Georgios Paliouras (eds.). Springer Berlin Heidelberg, 460–464. Retrieved November 13, 2015 from <a href="http://link.springer.com/chapter/10.1007/978-3-540-73078-1_65">http://link.springer.com/chapter/10.1007/978-3-540-73078-1_65</a>
+F. Maxwell Harper. 2007. Encouraging Contributions to Online Communities with Personalization and Incentives. In <i>User Modeling 2007</i> (Lecture Notes in Computer Science), 460–464. <a href="https://doi.org/https://doi.org/10.1007/978-3-540-73078-1_65">https://doi.org/https://doi.org/10.1007/978-3-540-73078-1_65</a>
 
 * author version: <a href="http://www-users.cs.umn.edu/~harper/publications/harper-um2007-dc.pdf">http://www-users.cs.umn.edu/~harper/publications/harper-um2007-dc.pdf</a>
 
@@ -221,4 +250,4 @@ F. Maxwell Harper, Joseph A Konstan, Xin Li, and Yan Chen. 2005. User motivation
 ---
 **2004**
 
-F. Maxwell Harper. 2004. Digital Government. In Alexei Pavlichev and G. David Garson (eds.). IGI Global, Hershey, PA, USA, 236–247. Retrieved November 13, 2015 from <a href="http://dl.acm.org/citation.cfm?id=973560.973576">http://dl.acm.org/citation.cfm?id=973560.973576</a>
+F. Maxwell Harper. 2004. Data Warehousing and the Organization of Governmental Databases. In <i>Digital Government</i>, Alexei Pavlichev and G. David Garson (eds.). IGI Global, Hershey, PA, USA, 236–247. Retrieved November 13, 2015 from <a href="http://dl.acm.org/citation.cfm?id=973560.973576">http://dl.acm.org/citation.cfm?id=973560.973576</a>

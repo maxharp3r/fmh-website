@@ -9,7 +9,7 @@ url = "/connect/"
 
 If you'd like to get in contact, here are some ways:
 
-<img src="/images/harper@cs.umn.edu.jpg" alt="">
+<img src="/images/max-umn-edu.png" alt="" style="max-width: 300px;">
 
 * [LinkedIn](https://www.linkedin.com/in/maxharper)
 * [Twitter](https://twitter.com/maxharp3r)

@@ -8,3 +8,7 @@
 figure figcaption {
     font-size: 80%;
 }
+
+h3.masthead-title small {
+    margin-left: 20px;
+}
