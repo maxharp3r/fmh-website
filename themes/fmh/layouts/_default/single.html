@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<section class="section">
+    <div class="container">
+
+        <p style="margin-bottom: 1em;">
+            &leftarrow; <a href="/" rel="author">Max Harper</a>
+        </p>
+
+        <h1 class="title">{{ .Title }}</h1>
+
+        <p class="subtitle">{{ .Date.Format "January 2, 2006" }}</p>
+
+        <div class="content">{{ .Content }}</div>
+
+    </div>
+</section>
+
+{{ partial "footer.html" . }}

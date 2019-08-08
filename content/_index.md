@@ -1,6 +1,7 @@
 +++
 date = "2015-11-25T15:20:56-06:00"
 url = "index.html"
+title = "Max Harper"
 
 +++
 

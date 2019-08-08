@@ -1,16 +1,21 @@
 {{ partial "header.html" . }}
 
+{{ $paginator := .Paginate (where .Data.Pages "Type" "in" "post") }}
+
 <section class="section">
     <div class="container">
 
-        <h1 class="title">{{ .Title }}</h1>
-
-        <p class="subtitle">
-            My first website with <strong>Bulma</strong>!
-        </p>
+        <h1 class="title">Max Harper</h1>
+        <h1 class="subtitle">Social Computing and Recommender Systems Researcher</h1>
 
         <div class="content">
             {{ .Content }}
+
+            <ul>
+                {{ range where .Pages "Section" "post" }}
+                <li><a href={{ .Permalink }}>{{ .Title }}</a></li>
+                {{ end }}
+            </ul>
         </div>
 
     </div>
