@@ -1,5 +1,5 @@
 MetaDataFormat = "toml"
-theme = "lanyon-hugo"
+theme = "fmh"
 languageCode = "en-us"
 
 baseurl = "https://www-users.cs.umn.edu/~harper/"

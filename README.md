@@ -1,3 +1,4 @@
+# fmh website
 
 To get started:
 
@@ -11,3 +12,6 @@ then
 
     make watch
 
+## docs
+
+* <https://www.zeolearn.com/magazine/develop-a-theme-for-hugo>
