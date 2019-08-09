@@ -21,7 +21,7 @@ Along the way, we will also extensively use HTML, CSS, Git, GitHub, and Heroku.
 
 You want more info? How about [the slides I'll show on the first day of class][2].
 
-[Contact me](/connect/) if you are unsure of whether this class is right for you.
+[Contact me](/) if you are unsure of whether this class is right for you.
 
 [0]: https://onestop2.umn.edu/pcas/viewCatalogCourse.do?courseId=807160
 [1]: https://docs.google.com/document/d/1fn0CJOnFN751ptm4DYr5cGPfHgghiWCnhmaKUfA7bEA/edit

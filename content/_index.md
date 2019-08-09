@@ -4,10 +4,11 @@ url = "index.html"
 title = "Max Harper"
 +++
 
-I am a research scientist at [GroupLens](http://grouplens.org),
+I was *formerly* a research scientist at [GroupLens](http://grouplens.org),
 the social computing group at the [University of Minnesota
 Department of Computer Science and Engineering](http://www.cs.umn.edu).
-Among other things, I work on the [MovieLens](http://movielens.org) project.
+Among other things, I worked on the [MovieLens](http://movielens.org) project.
+I am currently taking time off, I'll share changes soon.
 
 [curriculum vitae (.pdf)](/files/harper-cv.pdf)
 
