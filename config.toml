@@ -2,7 +2,7 @@ MetaDataFormat = "toml"
 theme = "fmh"
 languageCode = "en-us"
 
-baseurl = "https://www-users.cs.umn.edu/~harper/"
+baseurl = "https://www-users.cs.umn.edu/~max/"
 canonifyurls = true
 
 [author]
