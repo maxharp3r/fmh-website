@@ -1,5 +1,5 @@
 
-.PHONY: clean deploy watch
+.PHONY: clean build watch
 
 clean:
 	rm -rf public

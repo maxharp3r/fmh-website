@@ -10,7 +10,7 @@ Department of Computer Science and Engineering](http://www.cs.umn.edu).
 Among other things, I worked on the [MovieLens](http://movielens.org) project.
 I am currently taking time off, I'll share changes soon.
 
-[curriculum vitae (.pdf)](/files/harper-cv.pdf)
+[resume (.pdf)](/files/harper-resume.pdf)
 
 [publications (Google Scholar)](https://scholar.google.com/citations?user=y9kaCjcAAAAJ&hl=en&oi=sra)
 
