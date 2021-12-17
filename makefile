@@ -1,3 +1,4 @@
+# THIS REPOSITORY IS DEPRECATED, use maxharp3r.gihub.io instead
 
 .PHONY: clean build watch cpcv
 
